@@ -1,4 +1,4 @@
-![image](https://github.com/raninurf/pertemuan1-basis-data/assets/148309195/8875a626-eb69-4786-893f-b72ec9396dc2)## MEMBUAT TABEL MAHASISWA PADA DATABASE polban4
+## MEMBUAT TABEL MAHASISWA PADA DATABASE polban4
 # 1. Membuka aplikasi PostgreSQL yang telah diunduh
 ![image](https://github.com/raninurf/pertemuan1-basis-data/assets/148309195/9c391ae0-8c55-4129-b587-997fdc30df34)
 # 2. Login pada terminal dengan username dan memasukkan password yang telah dibuat
